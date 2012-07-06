@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Podstarter
+namespace Podstarter.Web
 {
     public class FilterConfig
     {

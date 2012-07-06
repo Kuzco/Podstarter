@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Podstarter
+namespace Podstarter.Web
 {
     public class BundleConfig
     {
