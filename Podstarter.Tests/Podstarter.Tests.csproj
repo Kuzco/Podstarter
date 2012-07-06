@@ -106,9 +106,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Podstarter\Podstarter.csproj">
+    <ProjectReference Include="..\Podstarter\Podstarter.Web.csproj">
       <Project>{5370911A-91D4-4236-87AD-F9474E1AA8F2}</Project>
-      <Name>Podstarter</Name>
+      <Name>Podstarter.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
